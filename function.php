@@ -1,5 +1,4 @@
 <?php
-
 function test_user($data){
     $data = trim($data);
     $data = stripslashes($data);
